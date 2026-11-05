@@ -1,0 +1,9 @@
+body { font-family: system-ui, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; background: #f8f9fa; }
+header { text-align: center; margin-bottom: 30px; }
+h1 { color: #1a73e8; }
+textarea { width: 100%; padding: 12px; border: 1px solid #ddd; border-radius: 8px; font-size: 16px; }
+button { background: #1a73e8; color: white; padding: 12px 24px; border: none; border-radius: 8px; font-size: 16px; cursor: pointer; margin: 15px 0; }
+button:hover { background: #1557b0; }
+.post { background: white; padding: 15px; margin: 15px 0; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+.upgrade { text-align: center; margin-top: 30px; font-weight: bold; }
+footer { text-align: center; margin-top: 40px; color: #666; font-size: 14px; }
